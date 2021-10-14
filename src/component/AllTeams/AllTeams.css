@@ -1,0 +1,12 @@
+.teams__container {
+  text-align: center;
+  padding: 10px;
+  margin: 10px 0px;
+}
+
+.cart {
+  text-align: center;
+  margin: 10px;
+  border: 1px solid gray;
+  padding: 20px;
+}
